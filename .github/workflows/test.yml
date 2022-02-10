@@ -1,0 +1,11 @@
+name: Schedule test on Testing Farm
+on:
+  pull_request:
+
+jobs:
+  tests:
+    runs-on: ubuntu-20.04
+
+    steps:        
+      - name: Schedule test on Testing Farm 
+        uses: sclorg/testing-farm-as-github-action@v1
