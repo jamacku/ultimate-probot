@@ -1036,10 +1036,10 @@
   resolved "https://registry.yarnpkg.com/@octokit/webhooks-types/-/webhooks-types-5.0.0.tgz#7986fc44170d19e1879118ca9f1d41467693a54f"
   integrity sha512-ZML/+BD4zK3ss2e5M8JN2wWi/hiBh5sCEWfiok96eUR6GszasebNJ5xwCt9do8C49PNfackkJgw+N8cYrJNaTg==
 
-"@octokit/webhooks-types@5.6.0":
-  version "5.6.0"
-  resolved "https://registry.yarnpkg.com/@octokit/webhooks-types/-/webhooks-types-5.6.0.tgz#cbc908ef0df997de7f65da4e4003ecb8430410d3"
-  integrity sha512-y3MqE6N6Ksg1+YV0sXVpW2WP7Y24h7rUp2hDJuzoqWdKGr7owmRDyHC72INwfCYNzura/vsNPXvc6Xbfp4wGGw==
+"@octokit/webhooks-types@6.2.2":
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/@octokit/webhooks-types/-/webhooks-types-6.2.2.tgz#adbec417f2061c3148d757bf39f8831af6d45b68"
+  integrity sha512-CUxPFTKtGq13ja9PC+DoOMpeuWOlLWcfzWSOH29TjI1LHU7p+6Ppb0KH5weCV0tXvdfZdeZrg7UMenGsVOcFGA==
 
 "@octokit/webhooks@^9.8.4":
   version "9.21.0"
