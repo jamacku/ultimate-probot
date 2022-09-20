@@ -1,4 +1,6 @@
-describe('Pull Request Object', () => {
+import { describe, it } from 'vitest';
+
+describe('Review Object', () => {
   it('can be instantiated', () => {});
 
   // it('can correctly decompose title', () => {
