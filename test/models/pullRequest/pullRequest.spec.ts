@@ -1,3 +1,5 @@
+import { describe, it } from 'vitest';
+
 describe('Pull Request Object', () => {
   it('can be instantiated', () => {});
 

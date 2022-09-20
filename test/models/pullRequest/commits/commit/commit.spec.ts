@@ -1,3 +1,5 @@
+import { describe, it, beforeEach, expect } from 'vitest';
+
 import { CommitObject } from '../../../../../src/pull-request/commits/commit/commit';
 import { Commit } from '../../../../../src/pull-request/commits/commit/commit.model';
 

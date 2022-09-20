@@ -6,7 +6,7 @@
 
 // For more information about testing with Nock see:
 // https://github.com/nock/nock
-
+import { describe, it } from 'vitest';
 import nock from 'nock';
 
 import Plumber from '../src';
